@@ -21,7 +21,7 @@ export default class Swimlane extends React.Component {
         <div className="Swimlane-dragColumn" ref={this.props.dragulaRef}>
           {cards}
         </div>
-      </div>);
+      </div>
+    );
   }
-
 }
