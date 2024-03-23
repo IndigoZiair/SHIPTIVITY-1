@@ -27,5 +27,4 @@ export default class Board extends React.Component {
     Dragula(containers);
   }
 
-  // Rest of the component...
 }
